@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @PaigeBook
+/src/backend/database.py      @PaigeBook
+/src/backend/routers/auth.py  @PaigeBook
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @PaigeBook
